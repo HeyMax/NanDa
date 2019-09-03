@@ -1,6 +1,6 @@
 # README
 ## 使用
-1.将文件batch_create_prj.py和statments.py下载至能访问管理节点的机器上,置于同一目录下；<br>
+1.将文件batch_create_prj.py和statements_ff.py下载至能访问管理节点的机器上,置于同一目录下；<br>
 2.执行命令`pyton batch_create_prj.py`
 ## 脚本中自定义变量
 ### 1.ZSTACK_MN
